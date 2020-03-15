@@ -1,0 +1,3 @@
+# MoneyPenny
+
+my finance assistant. 
